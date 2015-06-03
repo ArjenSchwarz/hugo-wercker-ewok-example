@@ -1,4 +1,4 @@
-box: debian
+box: python:wheezy
 build:
   steps:
     - arjen/hugo-build:
