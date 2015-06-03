@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Example Hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://hugo-wercker.ig.nore.me/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 08 Jan 2015 07:50:12 AEDT</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://hugo-wercker.ig.nore.me/about/</link>
+      <pubDate>Thu, 08 Jan 2015 07:50:12 AEDT</pubDate>
+      
+      <guid>http://hugo-wercker.ig.nore.me/about/</guid>
+      <description>&lt;p&gt;This site is for illustration purposes only, in order to demonstrate using Wercker for automated deployments of Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
