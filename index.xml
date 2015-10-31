@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Hugo site</title>
+    <link>http://hugo-wercker.ig.nore.me/</link>
+    <description>Recent content on Example Hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jan 2015 08:02:18 +1100</lastBuildDate>
+    <atom:link href="http://hugo-wercker.ig.nore.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>draft</title>
+      <link>http://hugo-wercker.ig.nore.me/draft/</link>
+      <pubDate>Thu, 08 Jan 2015 08:02:18 +1100</pubDate>
+      
+      <guid>http://hugo-wercker.ig.nore.me/draft/</guid>
+      <description>&lt;p&gt;This is a draft, but should be published anyway because of the buildDrafts flag provided to Wercker.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://hugo-wercker.ig.nore.me/about/</link>
+      <pubDate>Thu, 08 Jan 2015 07:50:12 +1100</pubDate>
+      
+      <guid>http://hugo-wercker.ig.nore.me/about/</guid>
+      <description>&lt;p&gt;This site is for illustration purposes only, in order to demonstrate using Wercker for automated deployments of Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
